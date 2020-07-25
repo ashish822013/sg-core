@@ -1,4 +1,7 @@
 <Project>
 <Version> 3.0.0 <Version>
+  <group>/<group>
+    <version>1.0.0 <version>
+      <artifact-id/artifact-id>
 
 </Project>
