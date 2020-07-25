@@ -1,12 +1,10 @@
-<Project>
+Project>
 <Version> 3.0.0 <Version>
- HEAD
-"Just to check same file testing we have updated"
-=======
   <group>/<group>
     <version>1.0.0 <version>
      <dependancy>
       <artifact-id/artifact-id>
-
+<Profile>
+<Prilfe>
 >>>>>>> 5f4fa4bc726e419ee3c78b7e6398ad1292bccb0d
 </Project>
