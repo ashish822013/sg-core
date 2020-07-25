@@ -1,4 +1,11 @@
 <Project>
 <Version> 3.0.0 <Version>
+ HEAD
 "Just to check same file testing we have updated"
+=======
+  <group>/<group>
+    <version>1.0.0 <version>
+      <artifact-id/artifact-id>
+
+>>>>>>> 5f4fa4bc726e419ee3c78b7e6398ad1292bccb0d
 </Project>
