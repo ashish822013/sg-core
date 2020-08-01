@@ -29,6 +29,5 @@
       <url>http://52.142.15.177:8081/nexus/content/repositories/sgcore-snapshots/n</url>
       <layout>legacy</layout>
     </snapshotRepository>
-    ...
   </distributionManagement>
 </project>
