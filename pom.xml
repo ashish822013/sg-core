@@ -16,7 +16,7 @@
     </dependency>
   </dependencies>
   <distributionManagement>
-</repository>
+<repository>
       <uniqueVersion>false</uniqueVersion>
       <id>sgcore-releases</id>
       <name>sgcore-releases</name>
