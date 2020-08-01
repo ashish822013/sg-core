@@ -26,14 +26,14 @@
       <uniqueVersion>false</uniqueVersion>
       <id>sgcore-releases</id>
       <name>sgcore-releases</name>
-      <url>shttp://52.142.15.177:8081/nexus/content/repositories/sgcore-releases/n</url>
+      <url>shttp://10.0.0.5:8081/nexus/content/repositories/sgcore-releases/n</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
       <id>sgcore-snapshots</id>
       <name>sgcore-snapshots</name>
-      <url>http://52.142.15.177:8081/nexus/content/repositories/sgcore-snapshots/n</url>
+      <url>http://10.0.0.5:8081/nexus/content/repositories/sgcore-snapshots/n</url>
       <layout>legacy</layout>
     </snapshotRepository>
   </distributionManagement>
