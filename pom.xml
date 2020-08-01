@@ -6,6 +6,12 @@
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>sgcore</name>
+  <repositories>
+    <repository>
+      <id>sg-public</id>
+      <url>http://52.142.15.177:8081/nexus/content/groups/sg-public/</url>
+    </repository>
+  </repositories>
   <url>http://maven.apache.org/maven</url>
  <dependencies>
   <dependency> 
