@@ -23,7 +23,7 @@
   </dependencies>
   <profiles>
   <profile>
-    <id>sgcore-deploy</id>
+    <id>core-deploy</id>
   <distributionManagement>
 <repository>
       <uniqueVersion>false</uniqueVersion>
@@ -41,10 +41,9 @@
     </snapshotRepository>
   </distributionManagement>
     </profile>
-  </profiles>
-  <profiles>
-  <profile>
-    <id>sgcore-deploy_1</id>
+    
+    <profile>
+    <id>sgcore-deploy</id>
   <distributionManagement>
 <repository>
       <uniqueVersion>false</uniqueVersion>
