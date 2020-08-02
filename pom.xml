@@ -9,7 +9,7 @@
   <repositories>
     <repository>
       <id>sg-public</id>
-      <url>http://20.185.89.145:8081/nexus/content/groups/sg-public/</url>
+      <url>http://10.0.0.5:8081/repository/sg-public//</url>
     </repository>
   </repositories>
   <url>http://maven.apache.org/maven</url>
@@ -26,14 +26,14 @@
       <uniqueVersion>false</uniqueVersion>
       <id>sgcore-releases</id>
       <name>sgcore-releases</name>
-      <url>shttp://20.185.89.145:8081/nexus/content/repositories/sgcore-releases/n</url>
+      <url>http://10.0.0.5:8081/repository/sgcore-releases/</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
       <id>sgcore-snapshots</id>
       <name>sgcore-snapshots</name>
-      <url>http://20.185.89.145:8081/nexus/content/repositories/sgcore-snapshots/n</url>
+      <url>http://10.0.0.5:8081/repository/sgcore-snapshots</url>
       <layout>legacy</layout>
     </snapshotRepository>
   </distributionManagement>
